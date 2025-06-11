@@ -11,7 +11,7 @@ This repository contains an implementation of **VGG16** for classifying various 
 
 ## 📊 Dataset
 
-- Contains labeled thermal and normal images of paddy leaves.
+- Contains labeled thermal images of paddy leaves.
 - Includes diseases such as bacterial blight, brown spot, leaf smut, etc.
 - Performed data augmentation: rotation, flipping, zooming, and cropping.
 
